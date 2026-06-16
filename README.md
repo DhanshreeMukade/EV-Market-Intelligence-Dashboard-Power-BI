@@ -84,5 +84,5 @@ Source: Kaggle
 ---
 
 ## Dashboard Preview
-EV_Dashboard.png
+![EV Market Dashboard](EV_Dashboard.png)
 
